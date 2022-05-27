@@ -254,5 +254,5 @@ const calculateMultiDimensionalArray = array => {
 
 // test email examples
 let testArray = sum(['1', 'five', '2wenty', 'thr33']);
-let testArray2 = sum([[['1X2', 't3n'],['1024', '5', '64']]])
+let testArray2 = sum([['1X2', 't3n'],['1024', '5', '64']])
 console.log('Sum is: ' + testArray);
